@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Lesson 1: Assignments | HTML Basics and Document Structure
 Remember to take your time and work through each question diligently! Test your code, make sure it works, and try to find ways to improve. Once you are happy and satisfied with your code, upload it to Github, then turn in your Github link at the bottom of the page!
 
