@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Lesson 1: Assignments | HTML Basics and Document Structure
 Remember to take your time and work through each question diligently! Test your code, make sure it works, and try to find ways to improve. Once you are happy and satisfied with your code, upload it to Github, then turn in your Github link at the bottom of the page!
 
@@ -61,3 +62,6 @@ Expected Outcome: Recreate the text with special characters using the copied cod
 Task 2: HTML Comments Add comments for each Task describing what each portion of the added HTML code is doing. 
 
 Expected Outcome: Include the HTML comments in your HTML document, keeping them invisible to users but useful for developers.
+=======
+# week7_Lesson1AssignmentsHTMLBasicsandDocumentStructure
+>>>>>>> 52317a90a0da322408c1bb8e51be7dead3508403
